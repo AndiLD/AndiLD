@@ -4,6 +4,11 @@
 ## Instalacion
   Primero abre la consola....
 
+## Tecnologias Utilizadas
+
+-HTML
+-CSS
+
 ## Uso
   Instrucciones de como usar el termometro
 
